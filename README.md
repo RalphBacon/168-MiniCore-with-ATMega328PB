@@ -1,6 +1,9 @@
 # #168 MiniCore with ATMega328PB
 #### Boost your standard Arduino UNO by adding this 328PB chip on a tiny PCB
 
+### See https://www.youtube.com/ralphbacon
+#### Direct link to video #168: https://youtu.be/S_k_2sqmSxw
+
 ### $2 for PCB Prototype ANY COLOUR https://jlcpcb.com
 #### Layer: 1-2 Layer Size: 100mmx100mm
 #### Bring your designs to fruition faster and easier than before
