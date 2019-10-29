@@ -18,7 +18,7 @@ So you have an Arduino UNO with a DIP chip ATMega328P, right? Then add this tiny
 
 Install the **MiniCore  hardware core** (links below) and you can exploit the new chip, including some extra commands that added to the underlying Arduino infrastructure since it went live but were never included!
 
-<div style="clear:both">&nbsp;</div>
+<img src="/images/OnePixelTransparent.png">
 
 I demo a quick I2C LCD screen (I had to make some changes to one of the Liquid Crystal libraries as it was hardcoded to use the standard I2C (aka Wire.h) library) but it all worked very well.
 
