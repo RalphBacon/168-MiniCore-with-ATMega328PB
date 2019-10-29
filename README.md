@@ -35,19 +35,22 @@ http://bit.ly/YouTubeVideoList-RalphBacon
 
 ### LINKS!
 
-MiniCore by MCUdude  
+**MiniCore** by MCUdude  
 https://github.com/MCUdude/MiniCore  
 
-Arduino UNO R3 with DIP chip (choose the correct CN warehouse for best price)  
+**Arduino UNO R3 with DIP** chip (choose the correct CN warehouse for best price)  
 https://www.banggood.com/Wholesale-Arduino-Compatible-R3-UNO-ATmega16U2-AVR-USB-Board-p-68537.htmlp=FQ040729393382015118&utm_campaign=25129675&utm_content=3897&cur_warehouse=CN
 
-Banggood Tweezer Soldering Iron (sneak peek)  
+Banggood **Tweezer Soldering Iron** (sneak peek)  
 https://bit.ly/2M8R0bj
 
-Banggood SMD Practice SMD Soldering Boards for about $3    
+Banggood **SMD Practice SMD Soldering Boards** for about $3    
 https://www.banggood.com/DIY-Electronic-SMD-Components-Solder-Practice-Plate-Kit-For-Training-p-926728.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
-Coolterm Serial Monitor, FREEWARE, by Roger Meier  
+Ali Express **Black version** of the AVR ISP Programming Shield (there are several):  
+http://s.click.aliexpress.com/e/dADT1zf2
+
+**Coolterm** Serial Monitor, FREEWARE, by Roger Meier  
 https://freeware.the-meiers.org/
 
 Conditional Compilation (#if, #ifdef, #ifndef, #else, #elif, #endif, and defined)  
