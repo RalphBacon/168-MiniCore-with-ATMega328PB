@@ -38,6 +38,9 @@ http://bit.ly/YouTubeVideoList-RalphBacon
 MiniCore by MCUdude  
 https://github.com/MCUdude/MiniCore  
 
+Arduino UNO R3 with DIP chip (choose the correct CN warehouse for best price)  
+https://www.banggood.com/Wholesale-Arduino-Compatible-R3-UNO-ATmega16U2-AVR-USB-Board-p-68537.htmlp=FQ040729393382015118&utm_campaign=25129675&utm_content=3897&cur_warehouse=CN
+
 Banggood Tweezer Soldering Iron (sneak peek)  
 https://bit.ly/2M8R0bj
 
