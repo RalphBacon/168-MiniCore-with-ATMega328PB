@@ -36,7 +36,12 @@ Full details in the video of what you need to do, but it really is childsplay!
 (Special thanks to Michael Kurt Vogel for compiling this)  
 http://bit.ly/YouTubeVideoList-RalphBacon
 
-### LINKS!
+### Breaking News! Banggood are having a special 11/11 Event:  
+Details: https://bit.ly/34b9u0O  
+Deals: https://bit.ly/2qaFpzC  
+##### I haven't checked out the deals yet but if I find Arduino-related items I'll let you know  
+
+## LINKS!
 
 **MiniCore** by MCUdude  
 https://github.com/MCUdude/MiniCore  
