@@ -4,7 +4,7 @@
 ### See https://www.youtube.com/ralphbacon
 #### Direct link to video #168: https://youtu.be/S_k_2sqmSxw
 
-### $2 for PCB Prototype ANY COLOUR https://jlcpcb.com
+### JLCPCB Prototype for $2 & Free SMT assembly: https://jlcpcb.com/
 #### Layer: 1-2 Layer Size: 100mmx100mm
 #### Bring your designs to fruition faster and easier than before
 ##### Free you to focus on your innovations and business.
