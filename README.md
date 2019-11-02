@@ -58,6 +58,9 @@ https://www.banggood.com/DIY-Electronic-SMD-Components-Solder-Practice-Plate-Kit
 Ali Express **Black version** of the AVR ISP Programming Shield (there are several):  
 http://s.click.aliexpress.com/e/dADT1zf2
 
+Microchip Xplained **Mini MCU Evaluation Kit** ATMEGA328PB-XMINI  
+https://uk.rs-online.com/web/p/processor-microcontroller-development-kits/1463222/  
+
 **Coolterm** Serial Monitor, FREEWARE, by Roger Meier  
 https://freeware.the-meiers.org/
 
